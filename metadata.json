@@ -4,5 +4,6 @@
     "project_description": "an app for making the trees",
     "creation_time": "2024-09-02 05:17:03.736742",
     "current_state": "The current state of the application has a navbar and a header",
-    "selected_starter_template_id": "landwind"
+    "selected_starter_template_id": "landwind",
+    "frontend_theme_prompt": "The image showcases a vibrant celestial landscape with a dominant color scheme of pinks, purples, and blacks, featuring a large, glowing planet and smaller celestial bodies in the background, and dramatic, jagged rock formations in the foreground. The style is surreal and otherworldly, evoking a sense of fantasy and cosmic wonder."
 }
